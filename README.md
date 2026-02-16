@@ -49,6 +49,7 @@ BankPro is not just a banking script—it's a complete banking ecosystem that em
 <li>Support</li>
 <li>View Profile</li>
 <li>Account Settings</li>
+</ul>
 
 More details & download script<br>
 https://www.phpscriptsonline.com/product/online-banking-php-script
